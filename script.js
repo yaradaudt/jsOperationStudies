@@ -22,7 +22,7 @@ if(firstNumber == secondNumber){
   console.log("Números diferentes")
 }
 
-if(sum / 2 === 0) {
+if(sum % 2 == 0) {
   console.log("A soma desses números é par")
 } else {
   console.log("A soma desses números é par")
