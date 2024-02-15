@@ -25,5 +25,5 @@ if(firstNumber == secondNumber){
 if(sum % 2 == 0) {
   console.log("A soma desses números é par")
 } else {
-  console.log("A soma desses números é par")
+  console.log("A soma desses números é ímpar")
 }
